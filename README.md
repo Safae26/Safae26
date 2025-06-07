@@ -26,8 +26,8 @@
 <div>
   <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas">
   <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy">
-  <img src="https://img.shields.io/badge/Matplotlib-11557C?style=flat&logo=python&logoColor=white" alt="Matplotlib">
-  <img src="https://img.shields.io/badge/Seaborn-2596BE?style=flat&logo=python&logoColor=white" alt="Seaborn">
+  - <img src="https://img.shields.io/badge/Matplotlib-11557C?style=flat&logo=python&logoColor=white" alt="Matplotlib">
+  + <img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=python&logoColor=white" alt="Matplotlib">
 </div>
 
 #### **Web Development**
@@ -59,8 +59,6 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Safae26&theme=dark&hide_border=false&card_width=450" width="450" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Safae26&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact&card_width=450" width="450" />
 </div>
-
-[![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2FSafae26&label=PROFILE%20VIEWS&labelColor=%23555555&countColor=%23d9e3f0&style=flat-square)](https://visitorbadge.io/status?path=https%3A%2F%2Fgithub.com%2FSafae26)
 
 ### **Currently Working On**
 - Web & mobile application development projects
