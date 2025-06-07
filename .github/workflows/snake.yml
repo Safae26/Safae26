@@ -3,18 +3,18 @@ name: Generate Snake
 on:
   schedule:
     - cron: "0 */6 * * *"  # Runs every 6 hours
-  workflow_dispatch:       # Manual trigger option
+  workflow_dispatch:
 
 jobs:
   build:
     runs-on: ubuntu-latest
 
     steps:
-      # Updated to latest stable checkout version
+      # Use latest checkout action
       - uses: actions/checkout@v4
 
-      # Generate snake animation
-      - uses: Platane/snk@master
+      # Use newer version of snk that doesn't use set-output
+      - uses: Platane/snk@v2
         id: snake-gif
         with:
           github_user_name: Safae26
@@ -23,18 +23,18 @@ jobs:
 
       - run: git status
 
-      # Updated push action with modern syntax
+      # Use modern push action alternative
       - name: Push changes
-        uses: ad-m/github-push-action@v0.8.0
+        uses: actions-js/push@v1
         with:
           github_token: ${{ secrets.GITHUB_TOKEN }}
           branch: master
           force: true
 
-      # Updated GitHub Pages action
-      - uses: crazy-max/ghaction-github-pages@v3
+      # Use latest GitHub Pages action
+      - uses: peaceiris/actions-gh-pages@v3
         with:
-          target_branch: output
-          build_dir: dist
+          publish_dir: ./dist
+          destination_dir: ./output
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
