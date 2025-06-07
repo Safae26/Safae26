@@ -10,20 +10,19 @@ jobs:
     runs-on: ubuntu-latest
 
     steps:
-      # Use latest checkout action
       - uses: actions/checkout@v4
 
-      # Use newer version of snk that doesn't use set-output
+      # Updated snk action with correct inputs
       - uses: Platane/snk@v2
         id: snake-gif
         with:
           github_user_name: Safae26
-          gif_out_path: dist/github-contribution-grid-snake.gif
-          svg_out_path: dist/github-contribution-grid-snake.svg
+          outputs: |
+            gif:dist/github-contribution-grid-snake.gif
+            svg:dist/github-contribution-grid-snake.svg
 
       - run: git status
 
-      # Use modern push action alternative
       - name: Push changes
         uses: actions-js/push@v1
         with:
@@ -31,7 +30,6 @@ jobs:
           branch: master
           force: true
 
-      # Use latest GitHub Pages action
       - uses: peaceiris/actions-gh-pages@v3
         with:
           publish_dir: ./dist
