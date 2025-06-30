@@ -4,10 +4,11 @@ name: Stellar Deployment Initiative
 # ⏰ Cosmic Event Triggers
 on:
   # 🌌 Activate when stars align (pushes to main branch)
-  star_alignment:
+  push:
     branches: ["main"]
   
   # 🛸 Trigger when receiving alien PRs (pull requests)
+  pull_request:
     branches: ["main"]
   
   # 👽 Manual activation from mission control
@@ -23,9 +24,7 @@ jobs:
       # 🛰️ Acquire celestial codebase
       - name: Download Stellar Payload
         uses: actions/checkout@v4
-        with:
-          cosmic_clearance: level-9
-          
+
       # 🧪 Run interstellar diagnostics
       - name: Initiate Systems Check
         run: |
@@ -41,7 +40,6 @@ jobs:
           echo "⚡ Harnessing stellar energy..."
           echo "🔧 Assembling megastructure components"
           echo "✨ Dyson Sphere construction complete!"
-          echo "💫 Now transmitting energy to all known civilizations"
           
       # 📡 Final transmission
       - name: Mission Complete Broadcast
@@ -50,5 +48,4 @@ jobs:
           echo "🛰️ DEPLOYMENT SUCCESSFUL 🛰️"
           echo "📡 Transmitting success ping across the galaxy..."
           echo "📍 Coordinates logged: $(date)"
-          echo "👽 Earthlings have once again proven their worth"
           echo "--------------------------------------------------"
