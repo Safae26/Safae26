@@ -1,32 +1,5 @@
-name: Generate Snake
-
-on:
-  schedule:
-    - cron: "0 */6 * * *"  # Runs every 6 hours
-  workflow_dispatch:
-
-jobs:
-  generate-snake:
-    runs-on: ubuntu-latest
-
-    steps:
-      - uses: actions/checkout@v4
-        with:
-          fetch-depth: 0  # Needed for git history operations
-
-      - name: Generate snake
-        uses: Platane/snk@v2
-        id: snake-gif
-        with:
-          github_user_name: Safae26
-          outputs: |
-            gif: dist/github-contribution-grid-snake.gif
-            svg: dist/github-contribution-grid-snake.svg
-
-      - name: Commit and push changes
-        run: |
-          git config --global user.name "github-actions"
-          git config --global user.email "github-actions@example.com"
-          git add dist/
-          git commit -m "Update snake game visualization [skip ci]" || echo "No changes to commit"
-          git push
+- name: Test snake generation
+  uses: platane/snk@v2
+  with:
+    github_user_name: Safae26
+    outputs: "gif: snake.gif"
