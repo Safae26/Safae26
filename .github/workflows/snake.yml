@@ -6,33 +6,27 @@ on:
   workflow_dispatch:
 
 jobs:
-  build:
+  generate-snake:
     runs-on: ubuntu-latest
 
     steps:
       - uses: actions/checkout@v4
+        with:
+          fetch-depth: 0  # Needed for git history operations
 
-      # Updated snk action with correct inputs
-      - uses: Platane/snk@v2
+      - name: Generate snake
+        uses: Platane/snk@v2
         id: snake-gif
         with:
           github_user_name: Safae26
           outputs: |
-            gif:dist/github-contribution-grid-snake.gif
-            svg:dist/github-contribution-grid-snake.svg
+            gif: dist/github-contribution-grid-snake.gif
+            svg: dist/github-contribution-grid-snake.svg
 
-      - run: git status
-
-      - name: Push changes
-        uses: actions-js/push@v1
-        with:
-          github_token: ${{ secrets.GITHUB_TOKEN }}
-          branch: master
-          force: true
-
-      - uses: peaceiris/actions-gh-pages@v3
-        with:
-          publish_dir: ./dist
-          destination_dir: ./output
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+      - name: Commit and push changes
+        run: |
+          git config --global user.name "github-actions"
+          git config --global user.email "github-actions@example.com"
+          git add dist/
+          git commit -m "Update snake game visualization [skip ci]" || echo "No changes to commit"
+          git push
