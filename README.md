@@ -27,7 +27,7 @@
   <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++">
 
 </div>
-
+<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNWY0Z2dnM3Q4YjlzeGRnczZuNzZoMjltdm5wc3ZhcjZ6b2pzejkxeiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/gioLPAqDRZjzYpmuCp/giphy.gif" width="300" align="right" alt="Aesthetic anime laptop">
 
 
 #### **AI/ML Ecosystem**
