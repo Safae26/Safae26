@@ -1,7 +1,5 @@
 ## ***Hey there*** <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px">
 
-<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNWY0Z2dnM3Q4YjlzeGRnczZuNzZoMjltdm5wc3ZhcjZ6b2pzejkxeiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/gioLPAqDRZjzYpmuCp/giphy.gif" width="300" align="right" alt="Aesthetic anime laptop">
-
 ***I am a Data Science & AI Student*** | ***Full-Stack Developer***  
 
 ---
