@@ -64,10 +64,6 @@
 
 <div style="background:#0d1117; padding:25px; border-radius:15px; border: 1px solid #30363d; display:inline-block;">
 
-  <img src="https://github-readme-stats.vercel.app/api?username=Safae26&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="450" />
-
-  <br>
-
   <img src="https://streak-stats.demolab.com/?user=Safae26&bg_color=0d1117&title_color=FF69B4&text_color=e6e6e6&icon_color=9370DB&hide_border=true&card_width=450" alt="GitHub Streak Stats">
 
 </div>
