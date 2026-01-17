@@ -1,6 +1,6 @@
 ## <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"> &nbsp;***Hey there!***
 
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People/Technologist%20Light%20Skin%20Tone.png" width="120" align="right" alt="Girl Coding">
+<img src="https://media.giphy.com/media/3oKIPnAiaMCws8nOsE/giphy.gif" width="180" align="right" style="border-radius:10px;" alt="Girl Coding Real">
 
 <a href="https://git.io/typing-svg">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=F778BA&width=435&lines=I+am+a+Data+Science+%26+AI+Student;I+am+a+Full-Stack+Developer;Coding+with+Passion+💖" alt="Typing SVG" />
