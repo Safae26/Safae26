@@ -1,48 +1,38 @@
-<div align="center">
+## ***Hey there*** <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px">
 
-# Hey There! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"> I'm Safae
-### Data Science & AI Student | Full-Stack Developer
 
-<p>
-  <img src="https://komarev.com/ghpvc/?username=Safae26&label=Profile%20Views&color=blueviolet&style=flat" alt="Safae26" />
-  <img src="https://img.shields.io/github/followers/Safae26?label=Followers&style=social" alt="Followers" />
-</p>
 
-</div>
+***I am a Data Science & AI Student*** | ***Full-Stack Developer***  
+
+
 
 ---
 
-### 👩‍💻 About Me
 
-```python
-class Safae:
-    def __init__(self):
-        self.username = "Safae26"
-        self.location = "Meknes, Morocco"
-        self.education = "Data Science & AI"
-        self.roles = ["Full-Stack Developer", "ML Enthusiast"]
-        
-        self.interests = [
-            "Natural Language Processing (NLP)",
-            "Computer Vision (Wildfire Detection)",
-            "Deep Learning"
-        ]
-        
-        self.current_focus = "Building WildfireGuard AI & T5 Transformers"
 
-    def say_hi(self):
-        print("Thanks for dropping by! Let's build something amazing.")
+### **Technologies & Tools**
 
-me = Safae()
-me.say_hi()
-```
----
 
-### **🛠 Tech Stack**
 
 #### **Programming Languages**
 
-<div align="center"> <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"> <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white" alt="Java"> <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" alt="Dart"> <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" alt="C"> <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++"> </div>
+
+
+<div>
+
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python">
+
+  <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white" alt="Java">
+
+  <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" alt="Dart">
+
+  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" alt="C">
+
+  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++">
+
+</div>
+
+
 
 #### **AI/ML Ecosystem**
 
