@@ -12,6 +12,32 @@
 
 ---
 
+### 👩‍💻 About Me
+
+```python
+class Safae:
+    def __init__(self):
+        self.username = "Safae26"
+        self.location = "Meknes, Morocco"
+        self.education = "Data Science & AI"
+        self.roles = ["Full-Stack Developer", "ML Enthusiast"]
+        
+        self.interests = [
+            "Natural Language Processing (NLP)",
+            "Computer Vision (Wildfire Detection)",
+            "Deep Learning"
+        ]
+        
+        self.current_focus = "Building WildfireGuard AI & T5 Transformers"
+
+    def say_hi(self):
+        print("Thanks for dropping by! Let's build something amazing.")
+
+me = Safae()
+me.say_hi()
+
+---
+
 ### **Technologies & Tools**
 
 #### **Programming Languages**
