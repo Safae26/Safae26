@@ -79,7 +79,7 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Safae26&theme=dark&hide_border=true&layout=compact&random=1)
 
-![Streak Stats](https://streak-stats.demolab.com/?user=Safae26&theme=dark&hide_border=true&random=1)
+[![GitHub Streak](https://streak-stats.demolab.com?user=Safae26)](https://git.io/streak-stats)
 
 </div>
 
