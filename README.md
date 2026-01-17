@@ -35,7 +35,7 @@ class Safae:
 
 me = Safae()
 me.say_hi()
-
+```
 ---
 
 ### **Technologies & Tools**
