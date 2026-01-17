@@ -74,13 +74,13 @@
 ### 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Safae26&theme=dark&hide_border=true&show_icons=true" height="150" alt="Stats" />
-  
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Safae26&theme=dark&hide_border=true&layout=compact" height="150" alt="Languages" />
-  
-  <br/>
-  
-  <img src="https://streak-stats.demolab.com/?user=Safae26&theme=dark&hide_border=true" height="150" alt="Streak" />
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Safae26&theme=dark&hide_border=true&show_icons=true&random=1)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Safae26&theme=dark&hide_border=true&layout=compact&random=1)
+
+![Streak Stats](https://streak-stats.demolab.com/?user=Safae26&theme=dark&hide_border=true&random=1)
+
 </div>
 
 <br/>
