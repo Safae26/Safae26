@@ -3,7 +3,7 @@
 <img src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif" width="180" align="right" style="border-radius:10px;" alt="Girl Coding Real">
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=F778BA&width=435&lines=I+am+a+Data+Science+%26+AI+Student;I+am+a+Full-Stack+Developer;Coding+with+Passion+💖" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&weight=600&size=24&pause=1000&color=F778BA&width=435&lines=I+am+a+Data+Science+%26+AI+Student;I+am+a+Full-Stack+Developer;Coding+with+Passion+%F0%9F%92%96" alt="Typing SVG" />
 </a>
 
 <br>
