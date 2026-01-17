@@ -38,7 +38,7 @@ me.say_hi()
 ```
 ---
 
-### **Technologies & Tools**
+### **🛠 Tech Stack**
 
 #### **Programming Languages**
 
