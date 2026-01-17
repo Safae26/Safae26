@@ -74,10 +74,13 @@
 ### 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Safae26&theme=dark&hide_border=true&include_all_commits=true&count_private=true" alt="Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Safae26&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact" alt="Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Safae26&theme=dark&hide_border=true&show_icons=true" height="150" alt="Stats" />
+  
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Safae26&theme=dark&hide_border=true&layout=compact" height="150" alt="Languages" />
+  
   <br/>
-  <img src="https://streak-stats.demolab.com/?user=Safae26&theme=dark&hide_border=true" alt="Streak" />
+  
+  <img src="https://streak-stats.demolab.com/?user=Safae26&theme=dark&hide_border=true" height="150" alt="Streak" />
 </div>
 
 <br/>
@@ -89,7 +92,7 @@
 
 <br/>
 
-### ✍️ Random Dev Quote
+### ✍️ 
 <div align="center">
  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=23F7DD&center=true&vCenter=true&width=435&lines=Talk+is+cheap.+Show+me+the+code.;First+solve+the+problem.+Then+write+the+code.;Simplicity+is+the+soul+of+efficiency." alt="Typing SVG" />
 </div>
