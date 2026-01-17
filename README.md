@@ -64,7 +64,7 @@
 
 <div style="background:#0d1117; padding:25px; border-radius:15px; border: 1px solid #30363d; display:inline-block;">
 
-  <img src="https://github-readme-stats.vercel.app/api?username=Safae26&bg_color=0d1117&title_color=FF69B4&text_color=e6e6e6&icon_color=9370DB&hide_border=true&include_all_commits=true&count_private=true&show_icons=true&card_width=450" width="450" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Safae26&bg_color=0d1117&title_color=FF69B4&text_color=e6e6e6&icon_color=9370DB&hide_border=true&show_icons=true&card_width=450" width="450" />
 
   <br>
 
