@@ -1,6 +1,14 @@
-## ***Hey there*** <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px">
+<div align="center">
 
-***I am a Data Science & AI Student*** | ***Full-Stack Developer***  
+# Hey There! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"> I'm Safae
+### Data Science & AI Student | Full-Stack Developer
+
+<p>
+  <img src="https://komarev.com/ghpvc/?username=Safae26&label=Profile%20Views&color=blueviolet&style=flat" alt="Safae26" />
+  <img src="https://img.shields.io/github/followers/Safae26?label=Followers&style=social" alt="Followers" />
+</p>
+
+</div>
 
 ---
 
