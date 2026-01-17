@@ -3,9 +3,9 @@
 <a href="https://git.io/typing-svg">
   <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&weight=600&size=24&pause=1000&color=FFC300&width=435&lines=Data+Science+%26+AI+Student;I+am+a+Full-Stack+Developer;Coding+with+Passion" alt="Typing SVG" />
 </a>
-
-<img src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif" width="350" align="right" style="border: none; background: transparent;" alt="Girl Coding Real">
-<br>
+<div align="center">
+  <img src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif" width="350" style="border: none; background: transparent;" alt="Girl Coding Real">
+</div>>
 
 <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-86043cf1e289.gif" width="100%">
 
