@@ -85,14 +85,6 @@
 
 <br/>
 
-### 🏆 Trophies
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Safae26&theme=radical&no-frame=true&no-bg=true&margin-w=4" />
-</div>
-
-<br/>
-
-### ✍️ 
 <div align="center">
  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=23F7DD&center=true&vCenter=true&width=435&lines=Talk+is+cheap.+Show+me+the+code.;First+solve+the+problem.+Then+write+the+code.;Simplicity+is+the+soul+of+efficiency." alt="Typing SVG" />
 </div>
