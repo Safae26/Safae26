@@ -1,6 +1,6 @@
 ## ✨ ***Hey there*** <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"> ✨
 
-<img src="http://googleusercontent.com/image_collection/image_retrieval/10562217486825739664_0" width="100%" alt="Girl Coding Animation">
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="400" alt="Girl Coding Animation">
 
 ### 👩‍💻 ***I am a Data Science & AI Student*** | ***Full-Stack Developer*** 💖
 
