@@ -82,13 +82,24 @@
 ---
 
 ### 📊 GitHub Stats
-<div align="center"> <img src="https://www.google.com/search?q=https://github-readme-stats.vercel.app/api%3Fusername%3DSafae26%26theme%3Dradical%26hide_border%3Dfalse%26include_all_commits%3Dtrue%26count_private%3Dtrue%26show_icons%3Dtrue%26card_width%3D450" />
 
-<img src="https://www.google.com/search?q=https://streak-stats.demolab.com/%3Fuser%3DSafae26%26theme%3Dradical%26hide_border%3Dtrue%26card_width%3D450" alt="GitHub Streak Stats">
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Safae26&theme=radical&hide_border=false&include_all_commits=true&count_private=true&show_icons=true&card_width=450" alt="GitHub Stats" />
+  
+  <br>
+  
+  <img src="https://streak-stats.demolab.com/?user=Safae26&theme=radical&hide_border=true&card_width=450" alt="GitHub Streak Stats">
+  
+  <br>
 
-<img src="https://www.google.com/search?q=https://github-readme-stats.vercel.app/api/top-langs/%3Fusername%3DSafae26%26theme%3Dradical%26hide_border%3Dfalse%26include_all_commits%3Dtrue%26count_private%3Dtrue%26layout%3Dcompact%26card_width%3D450" /> </div>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Safae26&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact&card_width=450" alt="Top Languages" />
+</div>
 
-<div align="center"> <img src="https://www.google.com/search?q=https://github-readme-activity-graph.vercel.app/graph%3Fusername%3DSafae26%26theme%3Dreact-dark" alt="Safae26's Contribution Graph" /> </div>
+<br>
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Safae26&theme=react-dark" alt="Safae26's Contribution Graph" />
+</div>
 
 ### **Currently Working On**
 - Web & mobile application development projects
