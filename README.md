@@ -1,5 +1,3 @@
-<div align="center">
-
 ## ✨ ***Hey there*** <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"> ✨
 
 ### 👩‍💻 ***I am a Data Science & AI Student*** | ***Full-Stack Developer*** 💖
@@ -72,7 +70,5 @@
 
 ### ✨ **Currently Working On** ✨
 
-✨ Web & mobile application development projects
-✨ Expanding my AI/ML expertise
-
-</div>
+- ✨ Web & mobile application development projects
+- ✨ Expanding my AI/ML expertise
