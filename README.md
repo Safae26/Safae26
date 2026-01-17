@@ -1,9 +1,7 @@
-<div align="center">
-
 ## <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"> &nbsp;***Hey there!***
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&weight=600&size=24&pause=1000&color=FFC300&center=true&vCenter=true&width=435&lines=Data+Science+%26+AI+Student;I+am+a+Full-Stack+Developer;Coding+with+Passion" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&weight=600&size=24&pause=1000&color=FFC300&width=435&lines=Data+Science+%26+AI+Student;I+am+a+Full-Stack+Developer;Coding+with+Passion" alt="Typing SVG" />
 </a>
 
 <br>
@@ -77,5 +75,3 @@
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="30"> **Web & Mobile Application Development**
 <br>
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="30"> **Deepening AI/ML Expertise**
-
-</div>
