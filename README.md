@@ -84,21 +84,21 @@
 ### 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Safae26&theme=radical&hide_border=false&include_all_commits=true&count_private=true&show_icons=true&card_width=450" alt="GitHub Stats" />
-  
-  <br>
-  
-  <img src="https://streak-stats.demolab.com/?user=Safae26&theme=radical&hide_border=true&card_width=450" alt="GitHub Streak Stats">
-  
-  <br>
 
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Safae26&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact&card_width=450" alt="Top Languages" />
-</div>
+[![Safae26's GitHub stats](https://github-readme-stats.vercel.app/api?username=Safae26&theme=radical&show_icons=true&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
 
-<br>
+<br/>
 
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Safae26&theme=react-dark" alt="Safae26's Contribution Graph" />
+[![Safae26's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Safae26&theme=radical&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
+<br/>
+
+[![Safae26's Streak](https://streak-stats.demolab.com/?user=Safae26&theme=radical)](https://git.io/streak-stats)
+
+<br/>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Safae26&theme=react-dark" alt="Safae26's Contribution Graph" />
+
 </div>
 
 ### **Currently Working On**
