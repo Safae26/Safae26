@@ -1,12 +1,12 @@
 ## <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"> &nbsp;***Hey there!*** I'm Safae!
 
+🎓 I’m a final-year Master’s student in **Data Science & AI** at the **Faculty of Sciences, Meknes**.
+🔭 I’m passionate about **Deep Learning**, **NLP** (Transformers), **Computer Vision**, and **Full-Stack Development**.
+🌱 Currently, I’m deepening my skills in **Mathematical Optimization**, **Data Analytics**, and *Deep Learning**.
+
 <a href="https://git.io/typing-svg">
   <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&weight=600&size=24&pause=1000&color=800080&width=435&lines=Data+Science+%26+AI+Student;I+am+a+Full-Stack+Developer;Coding+with+Passion" alt="Typing SVG" />
 </a>
-
-<br>
-
-<img src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif" width="350" style="border: none; background: transparent;" alt="Girl Coding Real">
 
 <br>
 
