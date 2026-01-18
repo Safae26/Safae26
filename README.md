@@ -7,7 +7,7 @@
 👉 <b><a href="https://safae26.github.io/">Visit my Digital Home & Portfolio</a></b>
 
 
-[![Safae's github stats](https://github-readme-stats.vercel.app/api?username=Safae26&count_private=true&show_icons=true&theme=radical&hide_rank=false)](https://github.com/anuraghazra/github-readme-stats)
+[![Safae's github stats](https://github-readme-stats.vercel.app/api?username=Safae26&count_private=true&show_icons=true&theme=dark&hide_rank=false)](https://github.com/anuraghazra/github-readme-stats)
 
 <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-86043cf1e289.gif" width="100%">
 
