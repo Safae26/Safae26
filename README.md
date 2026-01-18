@@ -2,7 +2,7 @@
 
 🎓 I’m a final-year Master’s student in **Data Science & AI** at the **Faculty of Sciences, Meknes**.<br/>
 🔭 I’m passionate about **Deep Learning**, **NLP** (Transformers), **Computer Vision**, and **Full-Stack Development**.<br/>
-🌱 Currently, I’m deepening my skills in **Mathematical Optimization**, **Data Analytics**, and *Deep Learning**.<br/>
+🌱 Currently, I’m deepening my skills in **Mathematical Optimization**, **Data Analytics**, and **Deep Learning**.<br/>
 
 [![Safae's github stats](https://github-readme-stats.vercel.app/api?username=Safae26&count_private=true&show_icons=true&theme=radical&hide_rank=false)](https://github.com/anuraghazra/github-readme-stats)
 
