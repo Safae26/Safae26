@@ -11,7 +11,7 @@
 
 <table>
   <tr>
-    <td width="60%" valign="top">
+    <td width="50%" valign="top">
       <h3>📈 GitHub Stats</h3>
       <img src="https://github-readme-stats.vercel.app/api?username=Safae26&theme=dark&hide_border=false&include_all_commits=false&count_private=false" width="100%" alt="GitHub Stats" />
       <br/>
