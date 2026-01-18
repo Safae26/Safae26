@@ -1,9 +1,11 @@
 ## <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"> &nbsp;***Hey there!*** I'm Safae!
 
 🎓 I’m a final-year Master’s student in **Data Science & AI** at the **Faculty of Sciences, Meknes**.<br/>
-🔭 I’m passionate about **Deep Learning**, **NLP** (Transformers), **Computer Vision**, and **Full-Stack Development**.<br/>
-🌱 Currently, I’m deepening my skills in **Mathematical Optimization**, **Data Analytics**, and **Deep Learning**.<br/>
-Discover more about me in my [digital home](https://safae26.github.io/)
+🔭 I’m passionate about **Deep Learning**, **NLP**, **Computer Vision**, and **Full-Stack**.<br/>
+🌱 Currently focusing on **Mathematical Optimization** and **Data Analytics**.<br/>
+<br/>
+👉 <b><a href="https://safae26.github.io/">Visit my Digital Home & Portfolio</a></b>
+
 
 [![Safae's github stats](https://github-readme-stats.vercel.app/api?username=Safae26&count_private=true&show_icons=true&theme=radical&hide_rank=false)](https://github.com/anuraghazra/github-readme-stats)
 
