@@ -4,12 +4,6 @@
 🔭 I’m passionate about **Deep Learning**, **NLP** (Transformers), **Computer Vision**, and **Full-Stack Development**.<br/>
 🌱 Currently, I’m deepening my skills in **Mathematical Optimization**, **Data Analytics**, and *Deep Learning**.<br/>
 
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&weight=600&size=24&pause=1000&color=800080&width=435&lines=Data+Science+%26+AI+Student;I+am+a+Full-Stack+Developer;Coding+with+Passion" alt="Typing SVG" />
-</a>
-
-<br>
-
 <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-86043cf1e289.gif" width="100%">
 
 ### **Technologies & Tools**
@@ -49,3 +43,7 @@
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="30"> **Web & Mobile Application Development**
 <br>
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="30"> **Deepening AI/ML Expertise**
+
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&weight=600&size=24&pause=1000&color=9D00FF&width=435&lines=Let's Code!" alt="Typing SVG" />
+</a>
