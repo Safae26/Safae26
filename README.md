@@ -16,7 +16,6 @@
 
 ### 📈 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=Safae26&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-<img src="https://streak-stats.demolab.com/?user=Safae26&bg_color=0d1117&title_color=FF69B4&text_color=e6e6e6&icon_color=9370DB&hide_border=true&card_width=450" alt="GitHub Streak Stats">
 ![](https://nirzak-streak-stats.vercel.app/?user=Safae26&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Safae26&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
