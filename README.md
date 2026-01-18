@@ -4,7 +4,7 @@
 🔭 I’m passionate about **Deep Learning**, **NLP** (Transformers), **Computer Vision**, and **Full-Stack Development**.<br/>
 🌱 Currently, I’m deepening my skills in **Mathematical Optimization**, **Data Analytics**, and *Deep Learning**.<br/>
 
-![Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=Safae26&theme=radical)
+[![Safae's github stats](https://github-readme-stats.vercel.app/api?username=Safae26&count_private=true&show_icons=true&theme=radical&hide_rank=false)](https://github.com/anuraghazra/github-readme-stats)
 
 <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-86043cf1e289.gif" width="100%">
 
