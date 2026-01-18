@@ -14,9 +14,6 @@
 ![](https://nirzak-streak-stats.vercel.app/?user=Safae26&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Safae26&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
-
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=Safae26&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
@@ -46,16 +43,6 @@
 
 #### **DevOps & Tools**
 <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"> <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="SQL"> <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux">
-
-<br>
-
-<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-86043cf1e289.gif" width="100%">
-
-### 📈 **GitHub Stats**
-
-<div style="background:#0d1117; padding:25px; border-radius:15px; border: 1px solid #30363d; display:inline-block;">
-  
-</div>
 
 <br>
 
