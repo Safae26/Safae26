@@ -86,7 +86,7 @@
       <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" height="40" alt="Seaborn" />
     </td>
     <td align="center" width="90">
-      <img src="https://upload.wikimedia.org/wikipedia/commons/3/37/Plotly-logo-01-square.png" height="40" alt="Plotly" />
+      <img src="https://user-images.githubusercontent.com/5997976/102559384-5f168000-40e1-11eb-98d9-2911b3d56730.png" height="40" alt="Plotly" />
     </td>
     <td align="center" width="90">
       <img src="https://upload.wikimedia.org/wikipedia/commons/f/f3/Apache_Spark_logo.svg" height="40" alt="Spark" />
