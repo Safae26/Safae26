@@ -39,6 +39,9 @@
   </tr>
 </table>
 
+<div align="center">
+  <img src="https://raw.githubusercontent.com/Safae26/Safae26/main/profile-3d-contrib/profile-night-rainbow.svg" alt="3D Contribution Graph" width="100%" />
+</div>
 <!--
 <div align="center">
   <img src="https://raw.githubusercontent.com/Safae26/Safae26/main/profile-3d-contrib/profile-night-rainbow.svg" alt="3D Contribution Graph" width="100%" />
