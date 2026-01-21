@@ -8,29 +8,43 @@
 
 ### 💻 Tech Stack
 
-#### 🗣️ Languages
+#### Languages
 <table align="center">
   <tr>
     <td align="center" width="90">
-      <img src="https://user-images.githubusercontent.com/10292797/163351910-c0205563-7140-496c-9407-331002b80459.gif" alt="C" width="55" />
+      <a href="https://skillicons.dev">
+        <img src="https://skillicons.dev/icons?i=c" alt="C" />
+      </a>
     </td>
     <td align="center" width="90">
-      <img src="https://user-images.githubusercontent.com/10292797/163351913-c215e985-6447-4f65-8b09-2195f2a89f9e.gif" alt="Java" width="55" />
+      <a href="https://skillicons.dev">
+        <img src="https://skillicons.dev/icons?i=java" alt="Java" />
+      </a>
     </td>
     <td align="center" width="90">
-      <img src="https://media.giphy.com/media/KAq5w47R9rmTuvWOWa/giphy.gif" alt="Python" width="55" />
+      <a href="https://skillicons.dev">
+        <img src="https://skillicons.dev/icons?i=py" alt="Python" />
+      </a>
     </td>
     <td align="center" width="90">
-      <img src="https://user-images.githubusercontent.com/10292797/163351928-854746f3-8f0a-4716-86d1-424a7173a872.gif" alt="JavaScript" width="55" />
+      <a href="https://skillicons.dev">
+        <img src="https://skillicons.dev/icons?i=js" alt="JavaScript" />
+      </a>
     </td>
     <td align="center" width="90">
-      <img src="https://user-images.githubusercontent.com/10292797/163351941-e9754516-25d2-4547-88d4-633045618751.gif" alt="Dart" width="55" />
+      <a href="https://skillicons.dev">
+        <img src="https://skillicons.dev/icons?i=dart" alt="Dart" />
+      </a>
     </td>
     <td align="center" width="90">
-      <img src="https://media.giphy.com/media/l1J9H0lP6gT8YfHl6/giphy.gif" alt="LaTeX" width="55" />
+      <a href="https://skillicons.dev">
+        <img src="https://skillicons.dev/icons?i=latex" alt="LaTeX" />
+      </a>
     </td>
     <td align="center" width="90">
-      <img src="https://media.giphy.com/media/s2uVn5zC6WcFF53jDq/giphy.gif" alt="SQL" width="55" />
+      <a href="https://skillicons.dev">
+        <img src="https://skillicons.dev/icons?i=mysql" alt="SQL" />
+      </a>
     </td>
   </tr>
 </table>
