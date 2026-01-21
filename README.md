@@ -39,14 +39,17 @@
   </tr>
 </table>
 
-
+<div align="center">
+  <img src="./profile-3d-contrib/profile-night-rainbow.svg" alt="3D Contribution Graph" width="100%" />
+</div>
+<!--
 <br/>
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://github.com/Safae26/Safae26/blob/output/github-contribution-grid-snake-dark.svg">
   <img alt="github contribution grid snake animation" src="https://github.com/Safae26/Safae26/blob/output/github-contribution-grid-snake.svg">
 </picture>
 <br/>
-
+-->
 
 <h3 align="center">🌐 Connect with Me</h3>
 <p align="center">
