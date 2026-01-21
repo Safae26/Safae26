@@ -9,7 +9,7 @@
 ### 💻 Tech Stack
 
 #### Languages
-<table align="center">
+<table>
   <tr>
     <td align="center" width="90">
       <a href="https://skillicons.dev">
