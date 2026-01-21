@@ -39,10 +39,11 @@
   </tr>
 </table>
 
+<!--
 <div align="center">
   <img src="https://raw.githubusercontent.com/Safae26/Safae26/main/profile-3d-contrib/profile-night-rainbow.svg" alt="3D Contribution Graph" width="100%" />
 </div>
-<!--
+
 <br/>
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://github.com/Safae26/Safae26/blob/output/github-contribution-grid-snake-dark.svg">
