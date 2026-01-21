@@ -39,12 +39,14 @@
   </tr>
 </table>
 
+<!--
 <br/>
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://github.com/Safae26/Safae26/blob/output/github-contribution-grid-snake-dark.svg">
   <img alt="github contribution grid snake animation" src="https://github.com/Safae26/Safae26/blob/output/github-contribution-grid-snake.svg">
 </picture>
 <br/>
+-->
 
 <h3 align="center">🌐 Connect with Me</h3>
 <p align="center">
