@@ -3,7 +3,7 @@ name: Generate Snake
 on:
   # Run automatically every 24 hours
   schedule:
-    - cron: "0 0 * * *" 
+    - cron: "0 0 * * *"
   
   # Allows to manually run the job at any time
   workflow_dispatch:
@@ -22,14 +22,14 @@ jobs:
     timeout-minutes: 5
     
     steps:
-      # Generates the snake  
+      # Generates the snake
       - name: generate github-contribution-grid-snake.svg
         uses: Platane/snk/svg-only@v3
         with:
           github_user_name: ${{ github.repository_owner }}
           outputs: |
             dist/github-contribution-grid-snake.svg
-            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
+            dist/github-contribution-grid-snake-dark.svg?palette=github-dark&color_snake=#ff99c8&color_dots=#161b22,#ffe5ec,#ffc2d1,#ffb3c6,#fb6f92
 
       # Pushes the content to the output branch
       - name: push github-contribution-grid-snake.svg to the output branch
