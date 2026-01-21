@@ -25,6 +25,13 @@
   </tr>
 </table>
 
+<br/>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/Safae26/Safae26/blob/output/github-contribution-grid-snake-dark.svg">
+  <img alt="github contribution grid snake animation" src="https://github.com/Safae26/Safae26/blob/output/github-contribution-grid-snake.svg">
+</picture>
+<br/>
+
 <h3 align="center">🌐 Connect with Me</h3>
 <p align="center">
 <a href="https://linkedin.com/in/safae-eraji-230083270" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
