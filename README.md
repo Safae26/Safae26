@@ -1,4 +1,6 @@
 ## <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"> &nbsp;***Hey there!*** I'm Safae!
+<img src="https://komarev.com/ghpvc/?username=Safae26&label=Profile%20Views&color=navyblue&style=for-the-badge" alt="Profile views" />
+<img src="https://img.shields.io/github/followers/Safae26?label=Followers&style=for-the-badge&color=navyblue" alt="followers" />
 
 🎓 I’m a final-year Master’s student in **Data Science & AI** at the **Faculty of Sciences, Meknes**.<br/>
 🔭 I’m passionate about **Deep Learning**, **NLP**, **Computer Vision**, and **Full-Stack**.<br/>
