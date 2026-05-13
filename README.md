@@ -242,5 +242,4 @@
 <h3 align="center">🌐 Connect with Me</h3>
 <p align="center">
 <a href="https://linkedin.com/in/safae-eraji-230083270" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-<a href="mailto:erajisafae2003@gmail.com" target="blank"><img align="center" src="https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white" alt="Email" /></a>
 </p>
