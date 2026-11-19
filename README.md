@@ -3,10 +3,11 @@
 <img src="https://komarev.com/ghpvc/?username=Safae26&label=Profile%20Views&style=for-the-badge" alt="Profile views" />
 <img src="https://img.shields.io/github/followers/Safae26?label=Followers&style=for-the-badge" alt="followers" />
 
-🎓 I’m a final-year Master’s student in **Data Science & AI** at the **Faculty of Sciences, Meknes**.<br/>
-🔭 I’m passionate about **Deep Learning**, **NLP**, **Computer Vision**, and **Full-Stack**.<br/>
-🌱 Currently focusing on **Mathematical Optimization** and **Data Analytics**.<br/>
+🎓 I’m a PhD student in Computer Science and Information Science at Moulay Ismail University, Meknes, with a Master’s degree in Data Science & AI.<br/>
+🔭 I’m passionate about Explainable AI (XAI), Deep Learning, Computer Vision, NLP, and Multimodal AI.<br/>
+🌱 Currently focusing on Explainable AI for Multimodal Medical Image Analysis, Early Disease Detection, and Trustworthy AI for Healthcare.<br/>
 <br/>
+
 👉 <b><a href="https://safae26.github.io/">Visit my Digital Home & Portfolio</a></b>
 
 ### 💻 Tech Stack
